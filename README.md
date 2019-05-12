@@ -13,7 +13,7 @@ SIMRS Khanza untuk Java 12 dan Netbeans 11. Khusus Development di Mesin Linux
 ## Happy coding bro...
 ================================
 
-	Software ini adalah Software Menejemen Rumah Sakit/Klinik/
+  Software ini adalah Software Menejemen Rumah Sakit/Klinik/
   Puskesmas yang  gratis, open source dan boleh digunakan siapa saja tanpa dikenai 
   biaya apapun.  Hal yang tidak boleh dilakukan adalah memperjualbelikan/mengambil 
   keuntungan dari Software ini dalam bentuk apapun tanpa seijin pembuat 
